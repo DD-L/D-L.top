@@ -1,0 +1,28 @@
+{  
+	"name": "SV",  
+	"version": "0.0.3", 
+	"description": "Simple video", 
+	"options_page": "options.htm",
+	"update_url": "http://imzker.com/ab/ChromeExt/updateInfo.xml",
+	"content_scripts": [{ 
+	  "js": ["skip.js"], 
+	  "matches": [
+			"http://g.cn/*",
+			"http://google.cn/*",
+			"http://www.google.cn/*",
+			"http://192.168.1.1/*",
+			"http://n/*"
+	  ],
+	  "run_at": "document_start"
+	}] ,
+   "permissions": [
+	  "contextMenus"
+	],
+	"icons": {
+	  "16": "./icons/16.png"
+	},
+	"background": {
+		"scripts": ["conmenus.js"]
+	},
+	"manifest_version": 2
+} 

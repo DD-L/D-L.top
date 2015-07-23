@@ -1,0 +1,103 @@
+<style>
+</style>
+<div style="">
+	<div style="height:5px"></div>
+	<h1><a href="/">D-L.top</a> - 简要开发记录:</h1>
+	<a href="javascript:history.go(-1);">返回前一页</a><p></p>
+		<ul>
+			<li><strong>2015/05/20</strong>
+				<ol>
+					<li>添加开发简要记录页</li>
+					<li>添加支持站点举例页</li>
+					<li>删除无用lib: libs/django</li>
+					<li>SV-API引擎内部升级导致输出格式发生变化，修复接口</li>
+					<li>xiami.com、 letv.com、tv.sohu.com 服务器端get失败(本地正常), 遗留</li>
+					<li>增加站点支持[vidto.me]</li>
+
+				</ol>
+				<p></p>
+			</li>
+			<li><strong>2015/05/14</strong>
+				<ol>
+					<li>更改模块 'libs/http' 名称为 'libs/deelweb' </li>
+					<li>添加jinja2 作为 deelweb 的模板引擎(Jinja2==2.8.dev0)</li>
+					<li>邮箱支撑 - deel#d-l.top</li>
+				</ol>
+				<p></p>
+			</li>
+			<li><strong>2015/05/11</strong>
+				<ol>
+					<li>SimpleVideo API 中 tudou.com 的一处bug遗留</li>
+					<li>优化 API Tool UI</li>
+				</ol>
+				<p></p>
+			</li>
+			<li><strong>2015/05/10</strong>
+				<ol>
+					<li>
+						http(deelweb) 模块新增对动态语言 - python脚本支持, 且支持GET/POST查询, cookies等操作.
+					</li>
+					<li>
+						http(deelweb) 支持伪装后缀
+					</li>
+					<li>
+						修改index.htm, 改由py脚本实现 /www/index.py<br>
+						首页的编写要满足:
+						<ol>
+						<li>一次加载要尽量减少对服务器的请求次数</li>
+						<li>职责分离</li>
+						</ol>
+					</li>
+				</ol>
+				<p></p>
+			</li>
+			<li><strong>2015/05/09</strong><br>
+				新增http模块 [/libs/http/] - (注: 该模块现已经更名为 /libs/deelweb/) 
+				<ol>
+					<li>设置文档根目录(/www/)后，就可以批量写网页了。支持404,403等跳转</li>
+					<li>支持自定义文档后缀(content_type.py)</li>
+					<li>支持设置目录默认主页文档及优先顺序(http_index.py)</li>
+				</ol>
+
+				<p>P.S. 由于起初太着急，加之脑子短路变得愚钝，没有使用诸如Flask、Django、Pyramid等成熟的python web框架。再加上听信那些大神们说用wsgi写一个web框架“像喝水一样简单”，于是乎干脆自己实现喽...  (ㄒoㄒ)  一群骗纸...</p>
+			</li>
+			<li><strong>2015/05/07</strong>
+				<ol>
+					<li>完成 API Tool 的编写</li>
+					<li>编写 D-L.top首页</li>
+				</ol>
+				<p></p>
+			</li>
+			<li><strong>2015/05/05</strong>
+				<p>B站bug遗留</p>
+			</li>
+			<li><strong>2015/04/25</strong><br>
+			优化 -
+					<ol>
+						<li>定义 SimpleVideo API 通道: "HTTP_HOST: api.d-l.top" or "HTTP_HOST: simplevideo-deel.rhcloud.com"</li>
+						<li>优化执行流程，增加 SimpleVideo API 数据缓存机制</li>
+					</ol>
+					<p></p>
+			</li>
+			<li><strong>2015/04/23</strong>
+				<p>优化数据库操作，规避SQL注入风险</p>
+			</li>
+			<li><strong>2015/04/22</strong>
+				<p>修补 file: sv_db.py: SvDb::allow_access() 认证漏洞</p>
+			</li>
+			<li><strong>2015/04/21</strong>
+				<p>
+					SimpleVideo API 添加数据库支持
+				</p>
+			</li>
+			<li><strong>2015/04/19</strong>
+				<p>
+					完成 SimpleVideo API 基础开发任务
+				</p>
+			</li>
+			<li><strong>待添加...</strong></li>
+		</ul>
+		<div style="height:50px"></div>
+		<a href="javascript:history.go(-1);">返回前一页</a><p></p>
+		<div style="height:50px"></div>
+</div>

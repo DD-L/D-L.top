@@ -1,0 +1,22 @@
+﻿html, body, div, h1, h2, h3, h4, h5, h6, ul, ol, dl, li, dt, dd, p, blockquote,pre, form, fieldset{ margin:0px; padding:0px;outline:none; border:0px; }
+body{font-size:13px;font-family:'宋体','SimSun', Verdana, Arial, Helvetica, sans-serif; font-style:normal;}
+ul, ol, dl, dd, form, input, select, button,textarea{margin:0px;padding:0px;}
+h1, h2, h3, h4, h5, h6 ,p{font-size:100%;font-weight:normal; padding:0px; margin:0px;}
+ul,ol,li{list-style:none;}
+img{border:0px none;vertical-align:middle;_vertical-align:top;}
+a{color:#333333; text-decoration:none;outline:none;}
+a:hover{color:#cc0000; text-decoration:underline;}
+.clear{ clear:both; width:0px; height:0px; overflow:hidden; line-height:0px;}
+.clearfix{clear:both;zoom:1;}
+.clearfix:after {visibility: hidden;display: block;font-size: 0;content: " ";clear: both;height: 0;}
+*html .clearfix { height: 1%;}
+
+.main{ width:650px; height:130px;}
+.link1{ float:left;}
+.link1 li{ width:150px; float:left; padding-right:15px; position:relative;}
+.link1 li.one{padding-left:5px}
+.link1 li.last{ padding-right:0px; float:right;}
+.link1 li img{ display:block;}
+.link1 li span{ width:150px;text-align:center; float:left; height:20px; display:block; position:absolute; top:115px; left:0px; font-weight:bold;}
+.link1 li:hover span{text-decoration:underline; cursor:pointer;}
+#myad1,#myad2,#myad3,#myad4,#myad5{ display:none;}

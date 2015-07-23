@@ -1,0 +1,1 @@
+document.write("<div style=\"padding-bottom:10px\"> <!-- 广告位：太平洋游戏pcgames.com.cn(651*100) --> <script type=\"text/javascript\" >BAIDU_CLB_SLOT_ID = \"880402\";<\/script> <script type=\"text/javascript\" src=\"http://cbjs.baidu.com/js/o.js\"><\/script>  </div>");

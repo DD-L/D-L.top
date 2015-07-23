@@ -1,0 +1,83 @@
+<style>
+#ym-window {
+	opacity: 1;
+	background: #c5c5c5;
+}
+</style>
+<div style="max-width:1500px;word-break:break-all; word-wrap:break-word;">
+	<div style="height:5px"></div>
+	<h1><a href="/">D-L.top</a> - SimpleVideo API 支持站点举例</h1>
+	<a href="javascript:history.go(-1);">返回前一页</a><p></p>
+		<div>说明:
+			<ol>
+				<li>以下站点样例，使用的token均为受限的'PublicToken'。欲享受更好的服务，请<a href="javascript:claim_token();">申请token</a></li>
+				<li>API地址转换，请使用 '<a href="/api_tool.do">API tool</a>'，或参见<a href="javascript:about_api_format();">转换算法</a></li>
+				<li>为满足某些奇葩的使用需求，提供base64加密通道: http://api.D-L.top/svencryptapi/token/xxx/url/xxx </li>
+				<li>“数据生成样例”中音视频url，有的可能已经过期，请使用 SimpleVideo API 重新获取</li>
+				<li>SimpleVideo API 支持以下音视频站点(包含但不限于)</li>
+			</ol>
+		</div>
+		<div style="">
+		<ul>
+			{% for site in site_examples %}
+			<li><strong>{{ site.title }}</strong> {{ site.title_ex }}
+				<ul>
+					<li>
+					播放页url: {{ site.playurl }}
+					</li>
+					<li>
+					转 API url: {{site.apiurl }} 
+					</li>
+					<li>
+					数据生成样例: <a href="/api_site_examples/{{ site.example_xml }}">click here</a>	
+					</li>
+				</ul>
+				<p></p>
+			</li>
+			{% endfor %}
+		</ul>
+		</div>
+		<div style="height:50px"></div>
+		<a href="javascript:history.go(-1);">返回前一页</a><p></p>
+		<div style="height:50px"></div>
+</div>
+<!-- <script type="text/javascript" src="/resource/js/common/ymPrompt.js"></script> -->
+<script>
+{{ ymPrompt_js }}
+function about_api_format() {
+	var msg_title = '&nbsp;&nbsp;&nbsp;&nbsp;<b>API url 格式</b> - SimpleVideo API';
+	var msg_content = ''
+		 + '<fieldset><br><h3>API 格式: (以PHP风格描述)</h3>'
+		 + '<p><ul>'
+		 + '	<li>http://api.D-L.top/svapi/token/<b>$token</b>/url/<b>$base64url</b></li>'
+		 + '	<li>http://api.D-L.top/svencryptapi/token/<b>$token</b>/url/<b>$base64url</b></li>'
+		 + '</ul></p>'
+		 + '<p><h3>Notes:</h3>'
+		 + '<ol>'
+		 + '	<li>/svapi/... 返回普通xml数据</li>'
+		 + '	<li>/svencryptapi/... 返回对xml可逆加密后的数据</li>'
+		 + '	<li><b>$token</b> 请向管理员申请 (未来不久，将面向开发者开放申请token)</li>'
+		 + "	<li><font style=\"color:#386AAD\"><b>$base64url</b> = strtr(base64_encode(str_replace('://', ':##', <b>$url</b>)), '+/', '-_');</font> // <b>$url</b> 为原站音视频播放页url</li>"
+		 + '	<li>注意token和url的顺序不能颠倒</li>'
+		 + '</ol>'
+		 + '</p></fieldset>';
+	var msg_height = 385;
+	if (!+[1,]) msg_height = 368; // IE
+	if (navigator.userAgent.indexOf("Firefox") > 0) msg_height = 355;
+	ymPrompt.win({message:msg_content,width:655,height:msg_height,msgCls:'myContent',title:msg_title});
+
+	// close 绑定
+	var td = document.getElementById("ym-window"); 
+	td.onclick = function(){ ymPrompt.close();}
+}
+function claim_token() {
+	var msg_title = '<b>&nbsp;&nbsp;&nbsp;&nbsp;申请token</b> - SimpleVideo API';
+	var msg_content = '<fieldset><span>尽请期待...</span></fieldset>'
+	var msg_height = 385;
+	if (!+[1,]) msg_height = 368; // IE
+	if (navigator.userAgent.indexOf("Firefox") > 0) msg_height = 355;
+	ymPrompt.win({message:msg_content,width:655,height:msg_height,msgCls:'myContent',title:msg_title});
+	var td = document.getElementById("ym-window"); 
+	td.onclick = function(){ ymPrompt.close();}
+}
+</script>	

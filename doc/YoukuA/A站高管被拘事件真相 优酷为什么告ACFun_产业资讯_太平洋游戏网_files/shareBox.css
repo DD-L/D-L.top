@@ -1,0 +1,41 @@
+#fixBox{text-align:left;position: fixed;bottom:5px;left:1000px;_position:absolute;font-size: 12px;width:55px;zoom:1}
+#fixBox ul,#fixBox li{list-style: none;padding: 0;margin:0;}
+#fixBox a{padding: 0;margin: 0;text-decoration: none;color:#555}
+#fixBox .tab{width:100%;display: none;/*ie6：绝对定位的元素和浮动元素是相邻兄弟元素时，绝对定位元素会消失*/height: auto;border-top:3px solid #C00;background: #f9f9f9;}
+#fixBox .tab a{text-align:center;display:block;height:50px;width: 55px;overflow: hidden;background: url(http://www1.pcgames.com.cn/2013/share/img/shareFixBg.png) no-repeat;margin:5px 0 0;text-indent:-999px;}
+#fixBox .tab a:focus{outline:none;}
+#fixBox .tab .share{background-position:-3px 0; }
+#fixBox .tab .top{background-position:0 -110px; display: block;}
+/*#fixBox .tab .top:hover {background-position:-65px -110px; }*/
+#fixBox .tab .back{background-position:-3px -50px; }
+#fixBox .tab .tools{background-position:0 -55px; }
+#fixBox .tab .tools:hover {background-position:-65px -55px; }
+#fixBox .tab a.active{border-top:none;height:26px;_height:27px;line-height:28px;_line-height:30px;background: #fff;text-indent: 0}
+#fixBox .shareBox{z-index:50;display:none;position: absolute;bottom:26px;_bottom:25px;width:110px;border: 1px solid #ccc;background: #fff}
+#fixBox .shareBox .hd{height:27px;border-bottom: 1px solid #ccc;background: #f5f5f5 }
+#fixBox .shareBox .hd .t{float: left;width:40px;height:27px;text-align: center;font-weight: bold;color:#333}
+#fixBox .shareBox .hd .s{float:right;width:30px;height:27px;background:transparent url(http://www1.pcgames.com.cn/2013/share/img/shareFixBg.png) no-repeat -4px -100px;}
+#fixBox .shareBox .hd .s:hover{background:#e3e3e3 url(http://www1.pcgames.com.cn/2013/share/img/shareFixBg.png) no-repeat -4px -100px; }
+#fixBox .shareBox .bd{padding: 4px 0;}
+#fixBox .shareBox .shareList a{text-align:left;background:url(http://www1.pconline.com.cn/openshare/110801/icon.png) no-repeat 18px -112px;line-height:24px;height:24px;display: block;text-indent: 36px;}
+#fixBox .shareBox .shareList a:hover{background-color: #f5f5f5;text-decoration: underline}
+#fixBox .shareBox .shareList .share-sina{background-position: 7px -444px }
+#fixBox .shareBox .shareList .share-qq{background-position: 7px -471px }
+#fixBox .shareBox .shareList .share-qqwb{background-position: 7px -412px }
+#fixBox .shareBox .shareList .share-kx{background-position: 7px -113px }
+#fixBox .shareBox .shareList .share-rr{background-position: 7px -148px }
+#fixBox .shareBox .shareList .share-163{background-position: 7px -185px }
+#fixBox .shareBox .shareList .share-sohu{background-position: 7px -219px }
+#fixBox .shareBox .shareList .share-tb{background-position: 7px -249px }
+#fixBox .shareBox .shareList .share-sc{background-position: 7px -279px }
+#fixBox .shareBox .shareList .share-db{background-position: 7px -310px }
+#fixBox .shareBox .shareList .share-sc{background-position: 7px -279px }
+#fixBox .shareBox .shareList .share-fx{background-position: 7px -345px }
+#fixBox .toolsTitle{position: absolute;line-height:20px;text-indent:6px;height:20px;width:140px;bottom:37px;left:0;border: 1px solid #ffb85d;background: #fffbe1}
+#fixBox .toolsTitle s{font-size:0;left:16px;bottom:-6px;width:11px;height:6px;background: url(http://www1.pcgames.com.cn/2013/share/img/shareFixBg.png) no-repeat -41px -25px;position: absolute;}
+#fixBox .toolsTitle .c{width:10px;height:10px;background: url(http://www1.pcgames.com.cn/2013/share/img/shareFixBg.png) no-repeat -41px 0px;position: absolute;right:5px;top:6px;}
+/*2013-08-12 按首页新样式*/
+#fixBox .tab .top{width:53px; height:50px; border:1px solid #cfcfcf; border-top:none;margin: 0; display:block; background:url(http://www1.pcgames.com.cn/index/g20130531/images/covbg.png) repeat-x 0 -841px;text-indent:0;}
+#fixBox .tab .tico{display:block; width:21px; height:12px; background:url(http://www1.pcgames.com.cn/index/g20130531/images/gmbg.png) no-repeat -226px -110px; margin:10px auto 5px; cursor:pointer}
+#fixBox .tab .ttix{display:block; text-align:center; color:#737373; height:20px; line-height:20px; cursor:pointer}
+#fixBox .tab .top:hover,#fixBox .tab .top:hover .ttix{text-decoration:none; color:#c00}

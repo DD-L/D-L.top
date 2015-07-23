@@ -1,0 +1,9 @@
+/test/
+/foxconn/videosite/
+
+__pycache__
+*.pyc
+
+*.bak
+*.py.code
+*.old

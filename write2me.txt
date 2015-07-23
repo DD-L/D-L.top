@@ -1,0 +1,14 @@
+﻿包含敏感信息的文件有：
+
+/config/db_conf.py [ ☆☆☆☆☆ ]
+/config/token_rank.py [ ☆☆ ]
+
+/tools/db_tools.py:db_init() [ ☆☆☆ ]
+/tools/visitor.py [ ☆☆ ]
+
+/libs/db/mysql/* [ ☆☆☆☆☆ ]
+/wsgi.py (db相关项) [ ☆☆ ]
+
+...(不适宜公开文件名) [ ☆☆☆☆☆☆ ]
+
+提交开源库时，务必要留意(屏蔽3颗 ☆☆☆ 及其以上的)
